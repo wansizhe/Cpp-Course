@@ -1,0 +1,1 @@
+QR生成的接口就是EncodeData函数
